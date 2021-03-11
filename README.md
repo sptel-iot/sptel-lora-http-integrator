@@ -1,7 +1,7 @@
 # sptel-lora-http-integrator
 An HTTP(S) integrator to send LoRa end nodes data from DLC to other applications
 
-*Install NodeJS in your machine and follow the below steps*
+*Install NodeJS in your machine, IoT Gateways, Raspberry Pi etc and follow the below steps*
 
 
 Clone the github repository and change to the project directory
