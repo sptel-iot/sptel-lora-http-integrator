@@ -1,0 +1,15 @@
+{
+  "name": "sptel-lora-http-integrator",
+  "version": "1.0.0",
+  "description": "connect 3rd party IoT portal to SPTel IoT Platform via REST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sptel-iot",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mqtt": "^4.2.6"
+  }
+}
